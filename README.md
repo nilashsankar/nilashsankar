@@ -1,4 +1,13 @@
-### Hi there 👋
+### 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<h1 align="center">Hi 👋, I'm Nilash</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<p align="left">
+</p>
 
 <!--
 **nilashsankar/nilashsankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
